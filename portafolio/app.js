@@ -56,5 +56,3 @@
     });
 
 })(document);
-
-console.log('Hola mundo');
